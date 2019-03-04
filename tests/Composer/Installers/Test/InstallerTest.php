@@ -338,7 +338,7 @@ class InstallerTest extends TestCase
             array('joomla-plugin', 'plugins/my_plugin/', 'shama/my_plugin'),
             array('kanboard-plugin', 'plugins/my_plugin/', 'shama/my_plugin'),
             array('kirby-plugin', 'site/plugins/my_plugin/', 'shama/my_plugin'),
-	    array('known-plugin', 'IdnoPlugins/SamplePlugin', 'known/SamplePlugin'),
+	    array('known-plugin', 'IdnoPlugins/SamplePlugin/', 'known/SamplePlugin'),
             array('kohana-module', 'modules/my_package/', 'shama/my_package'),
             array('lms-plugin', 'plugins/MyPackage/', 'shama/MyPackage'),
             array('lms-plugin', 'plugins/MyPackage/', 'shama/my_package'),
